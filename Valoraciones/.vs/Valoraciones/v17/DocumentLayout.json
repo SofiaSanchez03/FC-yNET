@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SOFIASANCHEZ\\OneDrive - GRUPO VESTEL CARALVISA S.L.U\\Formaci\u00F3n\\Curso-NET\\Valoraciones\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A92F2CF-3D12-4E47-A803-0012B038CE1E}|Valoraciones\\Valoraciones.csproj|c:\\users\\sofiasanchez\\onedrive - grupo vestel caralvisa s.l.u\\formaci\u00F3n\\curso-net\\valoraciones\\valoraciones\\estructurasdecontrol\\bucles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A92F2CF-3D12-4E47-A803-0012B038CE1E}|Valoraciones\\Valoraciones.csproj|solutionrelative:valoraciones\\estructurasdecontrol\\bucles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A92F2CF-3D12-4E47-A803-0012B038CE1E}|Valoraciones\\Valoraciones.csproj|C:\\Users\\SOFIASANCHEZ\\OneDrive - GRUPO VESTEL CARALVISA S.L.U\\Formaci\u00F3n\\Curso-NET\\Valoraciones\\Valoraciones\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A92F2CF-3D12-4E47-A803-0012B038CE1E}|Valoraciones\\Valoraciones.csproj|solutionrelative:Valoraciones\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A92F2CF-3D12-4E47-A803-0012B038CE1E}|Valoraciones\\Valoraciones.csproj|c:\\users\\sofiasanchez\\onedrive - grupo vestel caralvisa s.l.u\\formaci\u00F3n\\curso-net\\valoraciones\\valoraciones\\librovaloraciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A92F2CF-3D12-4E47-A803-0012B038CE1E}|Valoraciones\\Valoraciones.csproj|solutionrelative:valoraciones\\librovaloraciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bucles.cs",
+              "DocumentMoniker": "C:\\Users\\SOFIASANCHEZ\\OneDrive - GRUPO VESTEL CARALVISA S.L.U\\Formaci\u00F3n\\Curso-NET\\Valoraciones\\Valoraciones\\EstructurasDeControl\\Bucles.cs",
+              "RelativeDocumentMoniker": "Valoraciones\\EstructurasDeControl\\Bucles.cs",
+              "ToolTip": "C:\\Users\\SOFIASANCHEZ\\OneDrive - GRUPO VESTEL CARALVISA S.L.U\\Formaci\u00F3n\\Curso-NET\\Valoraciones\\Valoraciones\\EstructurasDeControl\\Bucles.cs",
+              "RelativeToolTip": "Valoraciones\\EstructurasDeControl\\Bucles.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAiwBQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T09:42:29.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LibroValoraciones.cs",
+              "DocumentMoniker": "C:\\Users\\SOFIASANCHEZ\\OneDrive - GRUPO VESTEL CARALVISA S.L.U\\Formaci\u00F3n\\Curso-NET\\Valoraciones\\Valoraciones\\LibroValoraciones.cs",
+              "RelativeDocumentMoniker": "Valoraciones\\LibroValoraciones.cs",
+              "ToolTip": "C:\\Users\\SOFIASANCHEZ\\OneDrive - GRUPO VESTEL CARALVISA S.L.U\\Formaci\u00F3n\\Curso-NET\\Valoraciones\\Valoraciones\\LibroValoraciones.cs",
+              "RelativeToolTip": "Valoraciones\\LibroValoraciones.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAYwFAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T10:49:21.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SOFIASANCHEZ\\OneDrive - GRUPO VESTEL CARALVISA S.L.U\\Formaci\u00F3n\\Curso-NET\\Valoraciones\\Valoraciones\\Program.cs",
+              "RelativeDocumentMoniker": "Valoraciones\\Program.cs",
+              "ToolTip": "C:\\Users\\SOFIASANCHEZ\\OneDrive - GRUPO VESTEL CARALVISA S.L.U\\Formaci\u00F3n\\Curso-NET\\Valoraciones\\Valoraciones\\Program.cs",
+              "RelativeToolTip": "Valoraciones\\Program.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAADsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T07:26:44.447Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\SOFIASANCHEZ\source\repos\HolaMundo\HolaMundo\bin\Debug\net8.0\HolaMundo.exe
+C:\Users\SOFIASANCHEZ\source\repos\HolaMundo\HolaMundo\bin\Debug\net8.0\HolaMundo.deps.json
+C:\Users\SOFIASANCHEZ\source\repos\HolaMundo\HolaMundo\bin\Debug\net8.0\HolaMundo.runtimeconfig.json
+C:\Users\SOFIASANCHEZ\source\repos\HolaMundo\HolaMundo\bin\Debug\net8.0\HolaMundo.dll
+C:\Users\SOFIASANCHEZ\source\repos\HolaMundo\HolaMundo\bin\Debug\net8.0\HolaMundo.pdb
+C:\Users\SOFIASANCHEZ\source\repos\HolaMundo\HolaMundo\obj\Debug\net8.0\HolaMundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SOFIASANCHEZ\source\repos\HolaMundo\HolaMundo\obj\Debug\net8.0\HolaMundo.AssemblyInfoInputs.cache
+C:\Users\SOFIASANCHEZ\source\repos\HolaMundo\HolaMundo\obj\Debug\net8.0\HolaMundo.AssemblyInfo.cs
+C:\Users\SOFIASANCHEZ\source\repos\HolaMundo\HolaMundo\obj\Debug\net8.0\HolaMundo.csproj.CoreCompileInputs.cache
+C:\Users\SOFIASANCHEZ\source\repos\HolaMundo\HolaMundo\obj\Debug\net8.0\HolaMundo.dll
+C:\Users\SOFIASANCHEZ\source\repos\HolaMundo\HolaMundo\obj\Debug\net8.0\refint\HolaMundo.dll
+C:\Users\SOFIASANCHEZ\source\repos\HolaMundo\HolaMundo\obj\Debug\net8.0\HolaMundo.pdb
+C:\Users\SOFIASANCHEZ\source\repos\HolaMundo\HolaMundo\obj\Debug\net8.0\HolaMundo.genruntimeconfig.cache
+C:\Users\SOFIASANCHEZ\source\repos\HolaMundo\HolaMundo\obj\Debug\net8.0\ref\HolaMundo.dll

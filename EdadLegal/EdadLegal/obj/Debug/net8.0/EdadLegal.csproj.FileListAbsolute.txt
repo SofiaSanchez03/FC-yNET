@@ -1,0 +1,14 @@
+C:\Users\SOFIASANCHEZ\source\repos\EdadLegal\EdadLegal\bin\Debug\net8.0\EdadLegal.exe
+C:\Users\SOFIASANCHEZ\source\repos\EdadLegal\EdadLegal\bin\Debug\net8.0\EdadLegal.deps.json
+C:\Users\SOFIASANCHEZ\source\repos\EdadLegal\EdadLegal\bin\Debug\net8.0\EdadLegal.runtimeconfig.json
+C:\Users\SOFIASANCHEZ\source\repos\EdadLegal\EdadLegal\bin\Debug\net8.0\EdadLegal.dll
+C:\Users\SOFIASANCHEZ\source\repos\EdadLegal\EdadLegal\bin\Debug\net8.0\EdadLegal.pdb
+C:\Users\SOFIASANCHEZ\source\repos\EdadLegal\EdadLegal\obj\Debug\net8.0\EdadLegal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SOFIASANCHEZ\source\repos\EdadLegal\EdadLegal\obj\Debug\net8.0\EdadLegal.AssemblyInfoInputs.cache
+C:\Users\SOFIASANCHEZ\source\repos\EdadLegal\EdadLegal\obj\Debug\net8.0\EdadLegal.AssemblyInfo.cs
+C:\Users\SOFIASANCHEZ\source\repos\EdadLegal\EdadLegal\obj\Debug\net8.0\EdadLegal.csproj.CoreCompileInputs.cache
+C:\Users\SOFIASANCHEZ\source\repos\EdadLegal\EdadLegal\obj\Debug\net8.0\EdadLegal.dll
+C:\Users\SOFIASANCHEZ\source\repos\EdadLegal\EdadLegal\obj\Debug\net8.0\refint\EdadLegal.dll
+C:\Users\SOFIASANCHEZ\source\repos\EdadLegal\EdadLegal\obj\Debug\net8.0\EdadLegal.pdb
+C:\Users\SOFIASANCHEZ\source\repos\EdadLegal\EdadLegal\obj\Debug\net8.0\EdadLegal.genruntimeconfig.cache
+C:\Users\SOFIASANCHEZ\source\repos\EdadLegal\EdadLegal\obj\Debug\net8.0\ref\EdadLegal.dll

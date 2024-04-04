@@ -1,0 +1,14 @@
+C:\Users\SOFIASANCHEZ\source\repos\Valoraciones\Valoraciones\bin\Debug\Valoraciones.exe.config
+C:\Users\SOFIASANCHEZ\source\repos\Valoraciones\Valoraciones\bin\Debug\Valoraciones.exe
+C:\Users\SOFIASANCHEZ\source\repos\Valoraciones\Valoraciones\bin\Debug\Valoraciones.pdb
+C:\Users\SOFIASANCHEZ\source\repos\Valoraciones\Valoraciones\obj\Debug\Valoraciones.csproj.AssemblyReference.cache
+C:\Users\SOFIASANCHEZ\source\repos\Valoraciones\Valoraciones\obj\Debug\Valoraciones.csproj.CoreCompileInputs.cache
+C:\Users\SOFIASANCHEZ\source\repos\Valoraciones\Valoraciones\obj\Debug\Valoraciones.exe
+C:\Users\SOFIASANCHEZ\source\repos\Valoraciones\Valoraciones\obj\Debug\Valoraciones.pdb
+C:\Users\SOFIASANCHEZ\OneDrive - GRUPO VESTEL CARALVISA S.L.U\Formación\Curso-NET\Valoraciones\Valoraciones\bin\Debug\Valoraciones.exe.config
+C:\Users\SOFIASANCHEZ\OneDrive - GRUPO VESTEL CARALVISA S.L.U\Formación\Curso-NET\Valoraciones\Valoraciones\bin\Debug\Valoraciones.exe
+C:\Users\SOFIASANCHEZ\OneDrive - GRUPO VESTEL CARALVISA S.L.U\Formación\Curso-NET\Valoraciones\Valoraciones\bin\Debug\Valoraciones.pdb
+C:\Users\SOFIASANCHEZ\OneDrive - GRUPO VESTEL CARALVISA S.L.U\Formación\Curso-NET\Valoraciones\Valoraciones\obj\Debug\Valoraciones.csproj.AssemblyReference.cache
+C:\Users\SOFIASANCHEZ\OneDrive - GRUPO VESTEL CARALVISA S.L.U\Formación\Curso-NET\Valoraciones\Valoraciones\obj\Debug\Valoraciones.csproj.CoreCompileInputs.cache
+C:\Users\SOFIASANCHEZ\OneDrive - GRUPO VESTEL CARALVISA S.L.U\Formación\Curso-NET\Valoraciones\Valoraciones\obj\Debug\Valoraciones.exe
+C:\Users\SOFIASANCHEZ\OneDrive - GRUPO VESTEL CARALVISA S.L.U\Formación\Curso-NET\Valoraciones\Valoraciones\obj\Debug\Valoraciones.pdb

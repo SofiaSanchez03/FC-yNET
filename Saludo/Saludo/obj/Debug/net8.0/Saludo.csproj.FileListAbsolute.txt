@@ -1,0 +1,14 @@
+C:\Users\SOFIASANCHEZ\source\repos\Saludo\Saludo\bin\Debug\net8.0\Saludo.exe
+C:\Users\SOFIASANCHEZ\source\repos\Saludo\Saludo\bin\Debug\net8.0\Saludo.deps.json
+C:\Users\SOFIASANCHEZ\source\repos\Saludo\Saludo\bin\Debug\net8.0\Saludo.runtimeconfig.json
+C:\Users\SOFIASANCHEZ\source\repos\Saludo\Saludo\bin\Debug\net8.0\Saludo.dll
+C:\Users\SOFIASANCHEZ\source\repos\Saludo\Saludo\bin\Debug\net8.0\Saludo.pdb
+C:\Users\SOFIASANCHEZ\source\repos\Saludo\Saludo\obj\Debug\net8.0\Saludo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SOFIASANCHEZ\source\repos\Saludo\Saludo\obj\Debug\net8.0\Saludo.AssemblyInfoInputs.cache
+C:\Users\SOFIASANCHEZ\source\repos\Saludo\Saludo\obj\Debug\net8.0\Saludo.AssemblyInfo.cs
+C:\Users\SOFIASANCHEZ\source\repos\Saludo\Saludo\obj\Debug\net8.0\Saludo.csproj.CoreCompileInputs.cache
+C:\Users\SOFIASANCHEZ\source\repos\Saludo\Saludo\obj\Debug\net8.0\Saludo.dll
+C:\Users\SOFIASANCHEZ\source\repos\Saludo\Saludo\obj\Debug\net8.0\refint\Saludo.dll
+C:\Users\SOFIASANCHEZ\source\repos\Saludo\Saludo\obj\Debug\net8.0\Saludo.pdb
+C:\Users\SOFIASANCHEZ\source\repos\Saludo\Saludo\obj\Debug\net8.0\Saludo.genruntimeconfig.cache
+C:\Users\SOFIASANCHEZ\source\repos\Saludo\Saludo\obj\Debug\net8.0\ref\Saludo.dll

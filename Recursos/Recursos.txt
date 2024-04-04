@@ -1,0 +1,36 @@
+Sección 1
+Instalaciones Nesecarias -> https://gist.github.com/Klerith/4816679624c1cb528f8e05d902fd7cff
+
+Sección 3
+TypeScript en línea -> https://stackblitz.com/edit/typescript-vxnz8z?file=index.ts
+Documentación de decoradores -> https://www.typescriptlang.org/docs/handbook/decorators.html
+
+Sección 4
+Interpolación Angular -> https://angular.io/guide/interpolation
+Bootstrap -> https://getbootstrap.com/
+
+Sección 5
+splice() -> https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/splice
+Service Angular -> https://angular.io/guide/singleton-services
+Npm uuid -> https://www.npmjs.com/package/uuid
+
+Sección 6
+http-server -> https://www.npmjs.com/package/http-server
+netlify -> https://www.netlify.com/
+copyfiles -> https://www.npmjs.com/package/copyfiles
+del-cli -> https://www.npmjs.com/package/del-cli
+
+Sección 7
+Giphy -> https://developers.giphy.com/
+Converson JSON quicktype -> https://quicktype.io/
+
+Sección 8
+Animaciones -> https://animate.style/
+Loaders SVG -> https://samherbert.net/svg-loaders/
+
+Sección 9
+Países -> https://restcountries.com/
+
+Sección 11
+PrimeNG -> https://primeng.org/
+Angular Pipes -> https://angular.io/api?query=pipe
